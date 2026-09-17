@@ -1,0 +1,6 @@
+{
+  "name": "日本稅金與所得記帳 (Japan Tax Ledger)",
+  "description": "日本薪資明細、升薪與獎金、國內外副業所得與減稅對策（故鄉納稅、iDeCo、醫療費、住宅貸款控除）記帳與試算工具",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
